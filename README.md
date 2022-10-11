@@ -2,6 +2,8 @@
   
 <img src="https://github-readme-stats.vercel.app/api?username=nullptr02&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Michael's GitHub stats" /></a>
 
+(https://github-readme-stats.vercel.app/api/top-langs/?username=nullptr02&layout=compact)](https://github.com/nullptr02/github-readme-stats)
+
 
 <!--
 **nullptr02/nullptr02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
